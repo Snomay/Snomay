@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snomay
 - 👀 I’m interested in programming and mods in MC(Minecraft)
-- 🌱 I’m currently learning python and maybe java
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gleb.bondar.09@gmail.com
 
